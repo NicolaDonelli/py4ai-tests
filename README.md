@@ -1,4 +1,4 @@
-py4ai core
+py4ai tests
 ====
 
 [![PyPI](https://img.shields.io/pypi/v/py4ai-tests.svg)](https://pypi.python.org/pypi/py4ai-tests)
